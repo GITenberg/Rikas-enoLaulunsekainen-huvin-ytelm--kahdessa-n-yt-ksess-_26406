@@ -1,0 +1,28 @@
+_repo: Rikas-enoLaulunsekainen-huvin-ytelm--kahdessa-n-yt-ksess-_26406
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blanche, August
+    alias: Blanche, August Teodor
+    birthdate: 1811
+    deathdate: 1868
+    gutenberg_agent_id: '31667'
+    url: http://www.gutenberg.org/2009/agents/31667
+    wikipedia: http://en.wikipedia.org/wiki/August_Blanche
+description: ''
+gutenberg_issued: '2008-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26406'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PT'
+title: 'Rikas eno: Laulunsekainen huvinäytelmä kahdessa näytöksessä'
+url: http://www.gutenberg.org/ebooks/26406
