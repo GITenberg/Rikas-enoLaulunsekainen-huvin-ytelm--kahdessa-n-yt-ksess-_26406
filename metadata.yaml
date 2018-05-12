@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31667
     wikipedia: http://en.wikipedia.org/wiki/August_Blanche
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26406#Rikas-enoLaulunsekainen-huvin-ytelm--kahdessa-n-yt-ksess-
 gutenberg_issued: '2008-08-23'
 gutenberg_type: Text
 identifiers:
